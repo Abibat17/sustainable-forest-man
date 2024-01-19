@@ -1,1 +1,1 @@
-# sustainable-forest-man
+# sustainable-forest-management
